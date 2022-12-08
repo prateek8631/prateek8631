@@ -1,9 +1,6 @@
 ### HI 👋!! 
-<picture>
-   <img align="center" alt="Hope youre having a good day out there!!" src="https://images.app.goo.gl/y9P1dxrnQWzv6aCp8">
-</picture>
 
-I am PlumEvo (aka Nishant Nirwan), I enjoy using my skills to contribute to the exciting technological advances that happen every day.
+I am Prateek, I enjoy using my skills to contribute to the exciting technological advances that happen every day.
 
 - 🔭 Working on my Problem solving and Intuition skills 
 - 🌱 Nurturing My C & C++ skills
