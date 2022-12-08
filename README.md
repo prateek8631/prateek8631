@@ -2,10 +2,8 @@
 
 I am Prateek, I enjoy using my skills to contribute to the exciting technological advances that happen every day.
 
-- 🔭 Working on my Problem solving and Intuition skills 
-- 🌱 Nurturing My C & C++ skills
-- 🤔 Looking for help with my Mental Health website
-- 💬 Smile when ever you can,
+- 🔭 Working on my Academics 
+- 🌱 Nurturing HTML and Python skills
 - 📫 Find me on:
 <p>&nbsp;</p>
 <div align="center">
